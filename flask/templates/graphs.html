@@ -1,0 +1,52 @@
+<link rel="stylesheet" href="/static/style.css" type="text/css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+{% block body %}
+{% if session['logged_in'] %}
+
+<style>
+    .header{
+        color: white;
+        #margin-left: 35%;
+        font-weight: 500;
+        text-align: center;
+    }
+</style>
+
+<h1 class="header">Welcome!</h1>
+<br><br>
+<h3 class="header">Please choose which graph you wish to see!</h3>
+
+<form action="/graph1" method="POST">
+    <div class="control-group" style="margin-top: 10%; margin-left: 40%;">
+        <p>Graph for Time Periods of Detection</p>
+        <br>
+        <input type="submit" value="See Graph" class="w3-btn w3-black" name="graph1">
+    </div>
+</form>    
+    
+<form action="/graph2" method="POST">
+    <div class="control-group" style="margin-top: 1%; margin-left: 40%;">
+        <p>Graph for Time Periods of Detection</p>
+        <br>
+        <input type="submit" value="See Graph" class="w3-btn w3-black" name="graph2">
+    </div>
+</form>
+
+<form action="/graph3" method="POST">
+    <div class="control-group" style="margin-top: 1%; margin-left: 40%;">
+        <p>Graph for Time Periods of Detection</p>
+        <br>
+        <input type="submit" value="See Graph" class="w3-btn w3-black" name="graph3">
+    </div>
+    
+</form>
+
+<form action="/logout" method="POST">
+    <div class="control-group" style="margin-top: 1%; margin-left: 40%;">
+        <input type="submit" value="logout" class="w3-btn w3-black" name="logout">
+    </div>
+    
+</form>
+
+{% endif %}
+{% endblock %}
