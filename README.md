@@ -1,6 +1,6 @@
 # IoT-video-surveillance
 
-Code for our paper titled "IoT Enabled Video surveillance system using Raspberry Pi", and it can be found [here](https://ieeexplore.ieee.org/document/8447877/)
+Code for our paper titled "IoT Enabled Video surveillance system using Raspberry Pi", and it can be found [right here](https://ieeexplore.ieee.org/document/8447877/).
 
 
 ## Dependencies:
@@ -31,8 +31,8 @@ pyparsing==2.2.0
 python motion.py
 ```
 
-## Cite our work if it helped in your work
-'''
+## Cite our work if it helped you out
+```
 @INPROCEEDINGS{8447877, 
 author={R. M. Patil and R. Srinivas and Y. Rohith and N. R. Vinay and D. Pratiba}, 
 booktitle={2017 2nd International Conference on Computational Systems and Information Technology for Sustainable Solution (CSITSS)}, 
@@ -45,4 +45,4 @@ keywords={Surveillance;Cloud computing;Electronic mail;Internet of Things;Google
 doi={10.1109/CSITSS.2017.8447877}, 
 ISSN={}, 
 month={Dec},}
-'''
+```
