@@ -33,16 +33,16 @@ python motion.py
 
 ## Cite our work if it helped you out
 ```
-@INPROCEEDINGS{8447877, 
-author={R. M. Patil and R. Srinivas and Y. Rohith and N. R. Vinay and D. Pratiba}, 
-booktitle={2017 2nd International Conference on Computational Systems and Information Technology for Sustainable Solution (CSITSS)}, 
-title={IoT Enabled Video Surveillance System Using Raspberry Pi}, 
-year={2017}, 
-volume={}, 
-number={}, 
-pages={1-7}, 
-keywords={Surveillance;Cloud computing;Electronic mail;Internet of Things;Google;Motion detection;Conferences;Motion Detection;OpenCV;AWS;Raspberry Pi;Video Surveillance;Internet of Things;Google Drive}, 
-doi={10.1109/CSITSS.2017.8447877}, 
-ISSN={}, 
-month={Dec},}
+@INPROCEEDINGS {8447877, 
+author = {R. M. Patil and R. Srinivas and Y. Rohith and N. R. Vinay and D. Pratiba}, 
+booktitle = {2017 2nd International Conference on Computational Systems and Information Technology for Sustainable Solution (CSITSS)}, 
+title = {IoT Enabled Video Surveillance System Using Raspberry Pi}, 
+year = {2017}, 
+volume = {}, 
+number = {}, 
+pages = {1-7}, 
+keywords = {Surveillance;Cloud computing;Electronic mail;Internet of Things;Google;Motion detection;Conferences;Motion Detection;OpenCV;AWS;Raspberry Pi;Video Surveillance;Internet of Things;Google Drive}, 
+doi = {10.1109/CSITSS.2017.8447877}, 
+ISSN = {}, 
+month = {Dec},}
 ```
