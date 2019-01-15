@@ -48,7 +48,7 @@ month = {Dec},}
 ```
 
 #### Other Contributors
-N.R. Vinay - [VinayNR](https://github.com/VinayNR)
-Ram Srinivas -[rramess](https://github.com/rramess)
-Rohith Y
+- N.R. Vinay - [VinayNR](https://github.com/VinayNR)
+- Ram Srinivas - [rramess](https://github.com/rramess)
+- Rohith Y
 
