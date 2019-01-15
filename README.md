@@ -47,8 +47,9 @@ ISSN = {},
 month = {Dec},}
 ```
 
-#### Other Contributors
+#### Other Authors
 - N.R. Vinay - [VinayNR](https://github.com/VinayNR)
 - Ram Srinivas - [rramess](https://github.com/rramess)
-- Rohith Y
+- Rohith Y.
+- Pratiba D.
 
