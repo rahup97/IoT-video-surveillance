@@ -46,3 +46,9 @@ doi = {10.1109/CSITSS.2017.8447877},
 ISSN = {}, 
 month = {Dec},}
 ```
+
+#### Other Contributors
+N.R. Vinay - [VinayNR](https://github.com/VinayNR)
+Ram Srinivas -[rramess](https://github.com/rramess)
+Rohith Y
+
