@@ -50,6 +50,6 @@ month = {Dec},}
 #### Other Authors
 - N.R. Vinay - [VinayNR](https://github.com/VinayNR)
 - Ram Srinivas - [rramess](https://github.com/rramess)
-- Rohith Y.
+- Rohith Y. - [rohithgoud10](https://github.com/rohithgoud10)
 - Pratiba D.
 
